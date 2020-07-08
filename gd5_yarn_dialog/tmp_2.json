@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Why do you like living in the great state of Maine? \n[[I like the cold weather!|cold]] [[Its so green here!|green]]",
+		"position": {
+			"x": -388,
+			"y": -374
+		},
+		"colorID": 0
+	},
+	{
+		"title": "green",
+		"tags": "",
+		"body": "Its so pretty here, all the mountains and trees!<<set $whichPicture = \"2\" >> ",
+		"position": {
+			"x": -106,
+			"y": -113
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cold",
+		"tags": "",
+		"body": "I LOVE being around snow, dont be such a wimp!<<set $whichPicture = \"1\" >>",
+		"position": {
+			"x": -600,
+			"y": -104
+		},
+		"colorID": 0
+	}
+]
